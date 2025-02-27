@@ -1,4 +1,4 @@
-# Planet-Scale Social Network (Simulation)
+# TerraScale: Planet-Scale Social Network Simulation
 
 This repository is a thought exercise to design and simulate a planet-scale social network architecture. It includes:
 
